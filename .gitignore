@@ -1,1 +1,6 @@
 /src/main/java/ex_003_marshalling_unmarshalling/
+/src/main/java/ex_004_jaxb/JAXB/
+/.idea/
+/src/main/resources/output.xml
+/src/test/
+/target/
